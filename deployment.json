@@ -1,0 +1,7 @@
+{
+    "server": "app01",
+    "instances": 5,
+    "region": "ap-south-1",
+    "production": true,
+    "application": "Tomcat"
+}

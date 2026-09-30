@@ -1,0 +1,4 @@
+Server: app01
+OS: Linux
+Application: Tomcat
+Region: ap-south-1

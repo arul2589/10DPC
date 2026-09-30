@@ -1,0 +1,6 @@
+Server: tomcat01
+OS: Linux
+Instance: t3.micro
+Region: ap-south-1
+Application: Tomcat
+Status: Running
